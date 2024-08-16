@@ -1,0 +1,48 @@
+.background-color {
+    background-color: #e9ecef;
+}
+
+.txt-color {
+    color: #4F772D; 
+    text-decoration: none;
+}
+
+.page-head {
+    font-size: 3vw;
+    text-align: center;
+    color: #31572C;
+    margin-top: 2vw;
+}
+
+.page-txt {
+    font-size: 1.5vw;
+    text-align: center;
+    font-weight: 400;
+    margin: 3vw 15vw;
+}
+
+.nav-margin {
+    margin-top: 15vh;
+}
+
+.centered {
+    position: absolute;
+    left: 50%;
+    top: 12vw;
+    margin-top: 15vh;
+    width: 70%;
+    transform: translate(-50%, -50%);
+    font-size: 8vw;
+    text-shadow: 2px 2px 4px #4F772D;
+    color: #132A13;
+    font-weight: bolder;
+}
+
+a:hover {
+    color: #4F772D !important;
+}
+
+.map {
+    width: 100vw;
+    height: 100vh;
+}
